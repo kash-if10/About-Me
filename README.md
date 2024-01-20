@@ -17,26 +17,26 @@ Welcome to my GitHub profile! I'm passionate about [your interests].
 
 ## GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)](https://github.com/your-username)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)](https://github.com/kash-if10)
 
 ## Top Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)](https://github.com/your-username)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)](https://github.com/kash-if10)
 
 ## Projects
 
 ### Project 1
 
-[![Project 1](https://img.shields.io/badge/-Project%201-blue)](https://github.com/your-username/project1)
+[![Project 1](https://img.shields.io/badge/-Project%201-blue)](https://github.com/kash-if10/project1)
 Description of Project 1.
 
 ### Project 2
 
-[![Project 2](https://img.shields.io/badge/-Project%202-green)](https://github.com/your-username/project2)
+[![Project 2](https://img.shields.io/badge/-Project%202-green)](https://github.com/kash-if10/project2)
 Description of Project 2.
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue)](https://www.linkedin.com/in/yourname)
-[![Twitter](https://img.shields.io/badge/Twitter-YourHandle-green)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue)]([https://www.linkedin.com/in/yourname](https://www.linkedin.com/in/kashif-equbal-3b0130230/))
+<!--[![Twitter](https://img.shields.io/badge/Twitter-YourHandle-green)](https://twitter.com/yourhandle)-->
 
