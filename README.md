@@ -21,11 +21,11 @@ Welcome to my GitHub profile! I'm passionate about [your interests].
 
 ## Contributions in the Last Year:
 
-![Your Contributions in the Last Year](https://github-readme-stats.vercel.app/api/?username=your-username&count_private=true&show_icons=true&theme=dark&hide=contribs,prs)
+![Your Contributions in the Last Year](https://github-readme-stats.vercel.app/api/?username=kash-if10&count_private=true&show_icons=true&theme=dark&hide=contribs,prs)
 
 ## GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kash-if10&theme=dark)
 
 ## Top Languages
 
