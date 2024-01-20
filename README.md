@@ -37,6 +37,6 @@ Description of Project 2.
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/https://www.linkedin.com/in/kashif-equbal-3b0130230/)]([https://www.linkedin.com/in/yourname](https://www.linkedin.com/in/kashif-equbal-3b0130230/))
+[![LinkedIn](https://img.shields.io/badge/[LinkedIn-YourName](https://www.linkedin.com/in/kashif-equbal-3b0130230/)-blue)]([https://www.linkedin.com/in/yourname](https://www.linkedin.com/in/kashif-equbal-3b0130230/))
 <!--[![Twitter](https://img.shields.io/badge/Twitter-YourHandle-green)](https://twitter.com/yourhandle)-->
 
