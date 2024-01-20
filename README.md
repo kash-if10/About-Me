@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I'm passionate about [your interests].
 
 ### Project 1
 
-[![Project 1](https://img.shields.io/badge/-Project%201-blue)](https://github.com/kash-if10/project1)
+[![Project 1](https://img.shields.io/badge/-Project%201-blue)](https://github.com/kash-if10/knowyourfaculty)
 Description of Project 1.
 
 ### Project 2
