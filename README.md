@@ -17,11 +17,11 @@ Welcome to my GitHub profile! I'm passionate about [your interests].
 
 ## GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)](https://github.com/kash-if10)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kash-if10&show_icons=true&theme=dark)](https://github.com/kash-if10)
 
 ## Top Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)](https://github.com/kash-if10)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kash-if10&layout=compact&theme=dark)](https://github.com/kash-if10)
 
 ## Projects
 
@@ -37,6 +37,6 @@ Description of Project 2.
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue)]([https://www.linkedin.com/in/yourname](https://www.linkedin.com/in/kashif-equbal-3b0130230/))
+[![LinkedIn](https://img.shields.io/badge/https://www.linkedin.com/in/kashif-equbal-3b0130230/)]([https://www.linkedin.com/in/yourname](https://www.linkedin.com/in/kashif-equbal-3b0130230/))
 <!--[![Twitter](https://img.shields.io/badge/Twitter-YourHandle-green)](https://twitter.com/yourhandle)-->
 
